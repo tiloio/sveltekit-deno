@@ -1,0 +1,6 @@
+{
+    "unstable": [
+        "kv"
+    ],
+    "nodeModulesDir": "auto"
+}
