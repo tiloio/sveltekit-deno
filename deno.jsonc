@@ -1,0 +1,15 @@
+{
+    "unstable": [
+        "kv"
+    ],
+    "nodeModulesDir": "auto",
+    "imports": {
+        //"sveltekit-adapter-deno": "/Users/tilo/workspace/sveltekit-adapter-deno/index.js",
+        "sveltekit-adapter-deno": "npm:sveltekit-adapter-deno"
+    },
+    "scopes": {
+        "/Users/tilo/workspace/sveltekit-adapter-deno/index.js": {
+            "esbuild": "npm:esbuild"
+        }
+    }
+}
